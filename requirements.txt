@@ -1,0 +1,6 @@
+requests==2.31.0  
+pyyaml==6.0       
+stellar-sdk==8.2.1  
+python-dotenv==1.0.0
+pytest
+pytest-mock==3.11.1
